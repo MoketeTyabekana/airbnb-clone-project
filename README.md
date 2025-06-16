@@ -63,9 +63,7 @@ StayEase is a full-stack web application inspired by Airbnb, designed to facilit
 - **Headings:** Circular (Bold, 700) - `24px - 32px`
 - **Secondary Text:** Circular (Book, 400) - `14px`
 
-## roject Roles and Responsibilities
-| Role | Responsibilities |
-|------|----------------|
+## Project Roles and Responsibilities
 | **Project Manager** | Oversees timeline, coordinates team, and manages deliverables. |
 | **Frontend Developers** | Implements UI components, ensures responsive design. |
 | **Backend Developers** | Builds APIs, manages database, implements business logic. |
